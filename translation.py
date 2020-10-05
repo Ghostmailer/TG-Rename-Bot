@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hello, %firstname%
+    START_TEXT = """Hello,
 I'm Telegram Rename Bot V.2.0!
 
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
