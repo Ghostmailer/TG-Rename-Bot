@@ -1,9 +1,10 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram Rename Bot!
+I'm Telegram Rename Bot V.2.0!
 
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
 
+👉  Do one By One . Otherwise you will get Permenent Ban 
 Owned by : @Sunisk & @Physic_hybrid
 
 /help for more details.."""
