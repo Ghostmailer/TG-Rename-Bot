@@ -5,7 +5,6 @@ I'm Telegram Rename Bot V.2.0!
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
 
 👉  Do one By One . Otherwise you will get Permenent Ban
-
 Owned by : @Sunisk & @Physic_hybrid
 
 /help for more details.."""
@@ -33,13 +32,10 @@ Owned by : @Sunisk & @Physic_hybrid
    
 <b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/yYHrSnuYXpA">Diploy</a>
 
-○ My Name : Rename Bot
-○ Creator : SK (https://t.me/Sunisk) & Hybrid (https://t.me/Physic_hybrid)
-○ Credits : Everyone in this journey
+Creator: @Sunisk & @Physic_hybrid
 
 Support Group : @InFoTelGroup
 © @SpEcHlDe @TGBotsZ"""
-    --------
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
